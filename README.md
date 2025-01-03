@@ -38,7 +38,6 @@ OPENAI_API_KEY=your_api_key_here
 Open the terminal in your project directory.
 Run the following command:
 " streamlit run main.py "
-
 (Replace main.py with the name of your Python file if different.)
 
 Usage:
