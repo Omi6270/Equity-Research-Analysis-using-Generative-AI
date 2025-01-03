@@ -32,13 +32,13 @@ Create a new .py file (e.g., main.py) and paste the project code.
 2.Environment Setup:
 Create a .env file in the project folder.
 Add your OpenAI API key to the .env file in the following format:
-
 OPENAI_API_KEY=your_api_key_here  
 
 3. Run the Application:
 Open the terminal in your project directory.
 Run the following command:
 " streamlit run main.py "
+
 (Replace main.py with the name of your Python file if different.)
 
 Usage:
